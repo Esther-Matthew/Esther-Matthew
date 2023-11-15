@@ -28,8 +28,7 @@ This project is a simple web-based geological time scale calculator. It allows u
 6. The result will display the time range for the selected era and an image representing that era.
 
 ## Images
-
-- `hadean.jpg`, `archean.jpg`, `proterozoic.jpg`, and `phanerozoic.jpg`.
+![alt text]()
 
 ## License
 
