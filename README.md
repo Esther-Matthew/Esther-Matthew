@@ -29,7 +29,8 @@ This project is a simple web-based geological time scale calculator. It allows u
 
 ## Images
 ![image samples](https://github.com/Esther-Matthew/GTScalculator/blob/main/sample%20designs/website%20design.png)
-
+![mobile design sample](https://github.com/Esther-Matthew/GTScalculator/blob/main/sample%20designs/mobile%20view.png)
+![mobile design sample](https://github.com/Esther-Matthew/GTScalculator/blob/main/sample%20designs/mobiledesign.png)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
